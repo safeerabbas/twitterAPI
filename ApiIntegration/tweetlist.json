@@ -1,0 +1,574 @@
+{
+    "data": [
+        {
+            "source": "Twitter for Android",
+            "id": "1541705113936580609",
+            "text": "RT @Kashivhr: Nawaz Sharif has the highest travel plans in Pakistan \n\n#PMLNRebuildingPakistan",
+            "public_metrics": {
+                "retweet_count": 9,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1541480700855156736"
+                }
+            ],
+            "author_id": "1531998045772324866",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 12,
+                        "username": "Kashivhr",
+                        "id": "1298566733125615616"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 70,
+                        "end": 93,
+                        "tag": "PMLNRebuildingPakistan"
+                    }
+                ]
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "created_at": "2022-06-28T08:48:37.000Z"
+        },
+        {
+            "source": "Microsoft Power Platform",
+            "id": "1541705111558361089",
+            "text": "RT @saberibrahimi: Pakistan has become the biggest importer of #Afghanistan’s coal where Pak PM says to have saved $2.2 billion in a year.…",
+            "public_metrics": {
+                "retweet_count": 15,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 26,
+                        "probability": 0.9397,
+                        "type": "Place",
+                        "normalized_text": "Pakistan"
+                    },
+                    {
+                        "start": 89,
+                        "end": 94,
+                        "probability": 0.3864,
+                        "type": "Place",
+                        "normalized_text": "Pak PM"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 17,
+                        "username": "saberibrahimi",
+                        "id": "22782434"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 63,
+                        "end": 75,
+                        "tag": "Afghanistan"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1541497367874228224"
+                }
+            ],
+            "author_id": "1483850415485890560",
+            "reply_settings": "everyone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "created_at": "2022-06-28T08:48:36.000Z"
+        },
+        {
+            "source": "Twitter Web App",
+            "id": "1541705109876375554",
+            "text": "RT @steve_hanke: In Pakistan, hundreds gather in protest of skyrocketing inflation &amp; cost of living. Under PM Sharif's reign, sky high gas…",
+            "public_metrics": {
+                "retweet_count": 1623,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1541520545900105729"
+                }
+            ],
+            "author_id": "2304543606",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "67",
+                        "name": "Interests and Hobbies",
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                    },
+                    "entity": {
+                        "id": "1486458201117642754",
+                        "name": "Inflation"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "steve_hanke",
+                        "id": "863527548"
+                    }
+                ]
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "created_at": "2022-06-28T08:48:36.000Z"
+        },
+        {
+            "source": "Twitter for Android",
+            "id": "1541705109578649600",
+            "text": "RT @Lokiodin0x: BC never knew Pakistan was part of BRICS (Brazil, Russia, India, China, South Africa) 🤣",
+            "public_metrics": {
+                "retweet_count": 12,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1541688226183798785"
+                }
+            ],
+            "author_id": "740365798766694400",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "123",
+                        "name": "Ongoing News Story",
+                        "description": "Ongoing News Stories like 'Brexit'"
+                    },
+                    "entity": {
+                        "id": "1484601166080081920",
+                        "name": "Russo-Ukrainian conflict"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "Lokiodin0x",
+                        "id": "1317200802298155009"
+                    }
+                ]
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "created_at": "2022-06-28T08:48:36.000Z"
+        },
+        {
+            "source": "Twitter for Android",
+            "id": "1541705109075382274",
+            "text": "RT @Voice_For_India: I'm still trying to figure out, what the hell, why the hell, this hatred for Hindus. What have Hindus ever done? So mu…",
+            "public_metrics": {
+                "retweet_count": 371,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1541610150884216833"
+                }
+            ],
+            "author_id": "1298321177161510914",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "Voice_For_India",
+                        "id": "923325871200620544"
+                    }
+                ]
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "created_at": "2022-06-28T08:48:36.000Z"
+        },
+        {
+            "source": "Twitter Web App",
+            "id": "1541705108911554560",
+            "text": "RT @swati_gs: Laws on hurting religious sentiments exist in Pakistan and Bangladesh too, more stringent than in India. There, only majority…",
+            "public_metrics": {
+                "retweet_count": 490,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 60,
+                        "end": 67,
+                        "probability": 0.9968,
+                        "type": "Place",
+                        "normalized_text": "Pakistan"
+                    },
+                    {
+                        "start": 73,
+                        "end": 82,
+                        "probability": 0.9971,
+                        "type": "Place",
+                        "normalized_text": "Bangladesh"
+                    },
+                    {
+                        "start": 112,
+                        "end": 116,
+                        "probability": 0.997,
+                        "type": "Place",
+                        "normalized_text": "India"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 12,
+                        "username": "swati_gs",
+                        "id": "1121554471"
+                    }
+                ]
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1541675758728257536"
+                }
+            ],
+            "author_id": "1726570490",
+            "reply_settings": "everyone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "created_at": "2022-06-28T08:48:36.000Z"
+        },
+        {
+            "source": "Twitter for Android",
+            "id": "1541705102200692737",
+            "text": "India blocks Pakistan’s BRICS invitation | The Express Tribune https://t.co/A0DFkhNgeH",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 4,
+                        "probability": 0.9748,
+                        "type": "Place",
+                        "normalized_text": "India"
+                    },
+                    {
+                        "start": 13,
+                        "end": 20,
+                        "probability": 0.9214,
+                        "type": "Place",
+                        "normalized_text": "Pakistan"
+                    },
+                    {
+                        "start": 43,
+                        "end": 61,
+                        "probability": 0.7577,
+                        "type": "Organization",
+                        "normalized_text": "The Express Tribune"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 63,
+                        "end": 86,
+                        "url": "https://t.co/A0DFkhNgeH",
+                        "expanded_url": "https://tribune.com.pk/story/2363493/india-blocks-pakistans-brics-invitation",
+                        "display_url": "tribune.com.pk/story/2363493/…",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1541637323590443008/7ZrBqfpG?format=jpg&name=orig",
+                                "width": 640,
+                                "height": 360
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1541637323590443008/7ZrBqfpG?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "India blocks Pakistan’s BRICS invitation",
+                        "description": "FO hopes future engagement will be on principles of inclusivity",
+                        "unwound_url": "https://tribune.com.pk/story/2363493/india-blocks-pakistans-brics-invitation"
+                    }
+                ]
+            },
+            "author_id": "1452677306967736320",
+            "reply_settings": "everyone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "created_at": "2022-06-28T08:48:34.000Z"
+        },
+        {
+            "source": "Twitter for Android",
+            "id": "1541705101639041024",
+            "text": "RT @HamzaaRizwan11: Lets work hard, make few personal sacrifices for Pakistan, lets #TurnAroundPakistan https://t.co/xNm9YkMXE2",
+            "public_metrics": {
+                "retweet_count": 26,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1541680371917529088"
+                }
+            ],
+            "author_id": "2966458789",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 104,
+                        "end": 127,
+                        "url": "https://t.co/xNm9YkMXE2",
+                        "expanded_url": "https://twitter.com/HamzaaRizwan11/status/1541680371917529088/video/1",
+                        "display_url": "pic.twitter.com/xNm9YkMXE2",
+                        "media_key": "7_1541680324492623872"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 18,
+                        "username": "HamzaaRizwan11",
+                        "id": "2748196786"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 84,
+                        "end": 103,
+                        "tag": "TurnAroundPakistan"
+                    }
+                ]
+            },
+            "attachments": {
+                "media_keys": [
+                    "7_1541680324492623872"
+                ]
+            },
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "12",
+                        "name": "Sports Team",
+                        "description": "A sports team organization, like Arsenal and the Boston Celtics"
+                    },
+                    "entity": {
+                        "id": "897814234498686976",
+                        "name": "Pakistan"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "created_at": "2022-06-28T08:48:34.000Z"
+        },
+        {
+            "source": "Twitter for Android",
+            "id": "1541705101114765312",
+            "text": "Pakistan set to play New Zealand in T20I tri-series opener on 7 October at Christchurch\n\nhttps://t.co/sizOZiImOr\n\n#NZvPAK #NewZealand #Pakistan #CricketTwitter",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 0,
+                        "end": 7,
+                        "probability": 0.5457,
+                        "type": "Place",
+                        "normalized_text": "Pakistan"
+                    },
+                    {
+                        "start": 21,
+                        "end": 31,
+                        "probability": 0.5383,
+                        "type": "Place",
+                        "normalized_text": "New Zealand"
+                    },
+                    {
+                        "start": 36,
+                        "end": 39,
+                        "probability": 0.447,
+                        "type": "Place",
+                        "normalized_text": "T20I"
+                    },
+                    {
+                        "start": 75,
+                        "end": 86,
+                        "probability": 0.746,
+                        "type": "Place",
+                        "normalized_text": "Christchurch"
+                    }
+                ],
+                "urls": [
+                    {
+                        "start": 89,
+                        "end": 112,
+                        "url": "https://t.co/sizOZiImOr",
+                        "expanded_url": "https://cricnode.com/pakistan-set-to-play-new-zealand-in-t20i-tri-series-opener-on-7-october-at-christchurch",
+                        "display_url": "cricnode.com/pakistan-set-t…",
+                        "status": 200,
+                        "unwound_url": "https://cricnode.com/pakistan-set-to-play-new-zealand-in-t20i-tri-series-opener-on-7-october-at-christchurch"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 114,
+                        "end": 121,
+                        "tag": "NZvPAK"
+                    },
+                    {
+                        "start": 122,
+                        "end": 133,
+                        "tag": "NewZealand"
+                    },
+                    {
+                        "start": 134,
+                        "end": 143,
+                        "tag": "Pakistan"
+                    },
+                    {
+                        "start": 144,
+                        "end": 159,
+                        "tag": "CricketTwitter"
+                    }
+                ]
+            },
+            "author_id": "1466809753032482817",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "id": "11",
+                        "name": "Sport",
+                        "description": "Types of sports, like soccer and basketball"
+                    },
+                    "entity": {
+                        "id": "897814293395103744",
+                        "name": "Cricket"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "12",
+                        "name": "Sports Team",
+                        "description": "A sports team organization, like Arsenal and the Boston Celtics"
+                    },
+                    "entity": {
+                        "id": "897814234498686976",
+                        "name": "Pakistan"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "12",
+                        "name": "Sports Team",
+                        "description": "A sports team organization, like Arsenal and the Boston Celtics"
+                    },
+                    "entity": {
+                        "id": "897814257093361665",
+                        "name": "New Zealand"
+                    }
+                }
+            ],
+            "reply_settings": "everyone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "created_at": "2022-06-28T08:48:34.000Z"
+        },
+        {
+            "source": "Twitter for Android",
+            "id": "1541705099185213441",
+            "text": "RT @TFT_: #Pakistan continues to follow a “blame it on India” #policy for domestic consumption and refuses to see and accept the reality: i…",
+            "public_metrics": {
+                "retweet_count": 8,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1541691186850709505"
+                }
+            ],
+            "author_id": "1184014489236234242",
+            "reply_settings": "everyone",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 8,
+                        "username": "TFT_",
+                        "id": "235919295"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 10,
+                        "end": 19,
+                        "tag": "Pakistan"
+                    },
+                    {
+                        "start": 62,
+                        "end": 69,
+                        "tag": "policy"
+                    }
+                ]
+            },
+            "lang": "en",
+            "possibly_sensitive": false,
+            "created_at": "2022-06-28T08:48:33.000Z"
+        }
+    ],
+    "meta": {
+        "newest_id": "1541705113936580609",
+        "oldest_id": "1541705099185213441",
+        "result_count": 10,
+        "next_token": "b26v89c19zqg8o3fpz2krqwehqero4nrgmzlp9b6fnukd"
+    }
+}
